@@ -32,5 +32,3 @@
 <img src="https://raw.githubusercontent.com/Aferist163/Aferist163/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
